@@ -1,1 +1,1 @@
-# Oh-ev-v-ivky-LabVIEW
+Repositář se souborem do LabVIEW
